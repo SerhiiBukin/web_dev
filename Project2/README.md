@@ -1,4 +1,5 @@
 Course “Web Development and Web Design”
 # Project 2
-Зроблено backend для робо-лампи на Django з використанням POST, GET запитів
+Проект PixeLamp - робот-лампа.
+Створено срвер на базі Python 3, Django framework. В сервері projector1 було використано POST/GET запити у форматі JSON.
 Author: Serhii Bukin
